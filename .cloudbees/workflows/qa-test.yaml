@@ -11,7 +11,7 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env10
-          artifact-id: 622656e2-7ede-4674-9b28-a22b89d0de9e
+          artifact-id: b2cc07e1-d4a4-47f7-9129-97350535faae
           target-environment: Approval
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
