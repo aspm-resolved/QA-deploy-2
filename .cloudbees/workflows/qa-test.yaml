@@ -11,11 +11,11 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env10
-          artifact-id: b2cc07e1-d4a4-47f7-9129-97350535faae
+          artifact-id: ac12453b-c301-4917-90cf-72d8b561c811
           target-environment: Approval
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env20
-          artifact-id: 622656e2-7ede-4674-9b28-a22b89d0de9e
+          artifact-id: ac12453b-c301-4917-90cf-72d8b561c811
           target-environment: TestQaEnv
 
