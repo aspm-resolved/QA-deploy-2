@@ -16,6 +16,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env20
-          artifact-id: b995873b-39f9-4be6-924b-dbd1f91fca1b
+          artifact-id: b1855cba-cac4-4de8-a78c-a2d211bc7694
           target-environment: TestQaEnv
-
