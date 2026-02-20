@@ -15,6 +15,6 @@ jobs:
           target-environment: Approval
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
-          labels: QA-env20 
+          labels: QA-env20  
           artifact-id: b1855cba-cac4-4de8-a78c-a2d211bc7694
           target-environment: TestQaEnv
