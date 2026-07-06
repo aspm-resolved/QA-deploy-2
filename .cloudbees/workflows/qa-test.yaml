@@ -12,5 +12,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA-env10
-          artifact-id: c61bbd47-1f76-4c95-82d9-cca893747f64
+          artifact-id: 4abec10c-58c6-4142-9f9a-545eb2e3876a
           target-environment: edge-env
