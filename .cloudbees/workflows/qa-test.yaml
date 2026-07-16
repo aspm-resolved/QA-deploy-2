@@ -6,7 +6,7 @@ on:
     branches:
       - main
   workflow_dispatch:
-jobs:
+jobs: 
   deploy:
     steps:
       - uses: cloudbees-io/register-deployed-artifact@v2
